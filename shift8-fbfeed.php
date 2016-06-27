@@ -93,7 +93,6 @@ function shift8_getfb($atts) {
 	$i = 0;
 	$outmsg = array();
 	$outimg = array();
-	//var_dump($outimg);
 	if (count($feed["data"]) >= $number) {
 		for ($i=0;$i<$number;$i++) {
 			if (!empty($feed['data'][$i]['picture'])) {

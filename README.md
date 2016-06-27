@@ -1,10 +1,10 @@
 # Shift8 Facebook Feed 
-* Contributors: 
+* Contributors: shift8
 * Donate link: https://www.shift8web.ca
 * Tags: facebook feed, facebook shortcode, fb shortcode
 * Requires at least: 3.0.1
 * Tested up to: 4.5.2
-* Stable tag: 4.3
+* Stable tag: 1.0
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
