@@ -34,13 +34,15 @@ function register_shift8_fbfeed_settings() {
 }
 
 // Admin welcome page
-function shift8_main_page() {
-?>
-<div class="wrap">
-<h2>Shift8 Plugins</h2>
-Shift8 is a Toronto based web development and design company. We specialize in Wordpress development and love to contribute back to the Wordpress community whenever we can! You can see more about us by visiting <a href="https://www.shift8web.ca" target="_new">our website</a>.
-</div>
-<?php
+if (!function_exists('shift8_main_page')) {
+	function shift8_main_page() {
+	?>
+	<div class="wrap">
+	<h2>Shift8 Plugins</h2>
+	Shift8 is a Toronto based web development and design company. We specialize in Wordpress development and love to contribute back to the Wordpress community whenever we can! You can see more about us by visiting <a href="https://www.shift8web.ca" target="_new">our website</a>.
+	</div>
+	<?php
+	}
 }
 
 
