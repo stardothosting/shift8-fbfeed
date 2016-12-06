@@ -50,8 +50,8 @@ We do [web design](https://www.shift8web.ca "Toronto Web Design") , development 
 
 == Screenshots ==
 
-1. This is the options page where you define the Facebook App information and Facebook page name
-2. This is an example of how the feed looks, with CSS styling of course
+1. This is an example of how the feed looks, with CSS styling of course
+2. This is the options page where you define the Facebook App information and Facebook page name
 
 == Changelog ==
 
