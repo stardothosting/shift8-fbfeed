@@ -3,8 +3,8 @@
 * Donate link: https://www.shift8web.ca
 * Tags: facebook feed, facebook shortcode, fb shortcode
 * Requires at least: 3.0.1
-* Tested up to: 4.5.2
-* Stable tag: 1.0
+* Tested up to: 4.9.2
+* Stable tag: 1.0.2
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -55,7 +55,10 @@ You can visit [our website](https://www.shift8web.ca "Toronto Web Design") to se
 
 ## Changelog 
 
-### 1.0 
+### 1.0.0
 * Stable version created
-* Implemented short code options 
-
+* Implemented short code options
+### 1.0.1
+* Added support for latest WP version
+### 1.0.2
+* Added support for latest WP version
