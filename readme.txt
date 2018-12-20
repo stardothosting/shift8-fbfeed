@@ -3,8 +3,8 @@ Contributors: shift8
 Donate link: https://www.shift8web.ca
 Tags: facebook feed, facebook shortcode, fb shortcode, facebook page feed, facebook page, facebook page shortcode, facebook integration
 Requires at least: 3.0.1
-Tested up to: 4.9.2
-Stable tag: 1.0.2
+Tested up to: 5.0.2
+Stable tag: 1.0.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -62,3 +62,5 @@ We do [web design](https://www.shift8web.ca "Toronto Web Design") , development 
 * Added support for latest WP version
 = 1.0.2 = 
 * Added support for latest WP version
+= 1.0.3 =
+* Wordpress 5 compatibility

@@ -3,7 +3,7 @@
  * Plugin Name: Shift8 Facebook Feed
  * Plugin URI: https://github.com/stardothosting/shift8-fbfeed
  * Description: This plugin easily integrates your Facebook page's feed into your site
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Shift8 Web 
  * Author URI: https://www.shift8web.ca
  * License: GPLv3
